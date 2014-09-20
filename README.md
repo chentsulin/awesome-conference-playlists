@@ -24,6 +24,28 @@ awesome-conference-playlist
 * [CSSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
 
 
+#### Realtime Conference Europe
+
+* [Realtime Conference Europe-2013](https://www.youtube.com/playlist?list=PLGQF24B-q5Oyq7vuP7YkVre8Gq4KJf5Wx)
+
+#### Fluent Conference
+
+* [Fluent Conference-2014](https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K)
+
+#### HTML5DevConf
+
+* [HTML5DevConf - May 2014](https://www.youtube.com/playlist?list=PLAIXSzgkhDs6K1VjhryO4iGw5FKHgJ6lK)
+* [HTML5DevConf - October 2013](https://www.youtube.com/playlist?list=PLAIXSzgkhDs63Re9ir_drprptDpVzVcGW)
+* [HTML5DevConf - April 2013](https://www.youtube.com/playlist?list=PLAIXSzgkhDs5DSq5AOwpNsjoXhU-73Ytr)
+* [HTML5DevConf - October 2012](https://www.youtube.com/playlist?list=PLAIXSzgkhDs7gu24tYyS432v4AGZwPc8I)
+* [HTML5DevConf - May 2012](https://www.youtube.com/playlist?list=PLEBE4DE1A18FB56D7)
+* [HTML5DevConf - September 2011](https://www.youtube.com/playlist?list=PLAIXSzgkhDs7wzBY4RNwpWXIn_W9Q7C4H)
+
+
+
+
+
+
 #### ng-conf
 
 * [ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
