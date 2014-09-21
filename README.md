@@ -54,6 +54,11 @@ awesome-conference-playlist
 
 * [Laracon](https://www.youtube.com/channel/UCRawXmZv30Vf_MivyPYb_GQ)
 
+#### Laracon EU
+
+* [Laracon EU-2014](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN)
+* [Laracon EU-2013](https://www.youtube.com/playlist?list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe)
+
 
 ### Chinese(Taiwan) 
 
