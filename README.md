@@ -1,36 +1,9 @@
 awesome-conference-playlist
 ===========================
 
-### English
+# HTML
 
-#### JSConf US
-
-* [JSConf US-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
-* [JSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
-
-
-#### JSConf EU 
-
-* [JSConf EU-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_)
-
-#### JSConf.Asia
-
-* [JSConf.Asia](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
-
-
-#### CSSConf US
-
-* [CSSConf US-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC)
-* [CSSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
-
-
-#### Realtime Conference Europe
-
-* [Realtime Conference Europe-2013](https://www.youtube.com/playlist?list=PLGQF24B-q5Oyq7vuP7YkVre8Gq4KJf5Wx)
-
-#### Fluent Conference
-
-* [Fluent Conference-2014](https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K)
+## English
 
 #### HTML5DevConf
 
@@ -43,12 +16,52 @@ awesome-conference-playlist
 
 
 
+# CSS
+
+## English
+
+#### CSSConf US
+
+* [CSSConf US-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC)
+* [CSSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
 
 
+
+# JavaScript
+
+## English
+
+#### JSConf US
+
+* [JSConf US-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
+* [JSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+
+#### JSConf EU 
+
+* [JSConf EU-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_)
+
+#### JSConf.Asia
+
+* [JSConf.Asia](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
 
 #### ng-conf
 
-* [ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
+* [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) 
+
+
+## Chinese(Taiwan) 
+
+#### JSDC-TW
+
+* [JSDC TW-2013](https://www.youtube.com/playlist?list=PL8dIIwCMF-SOaSb3_VYUlyULpPyk7iwlh)
+* [JSDC TW-2012](https://www.youtube.com/playlist?list=PL67C55F2DA256CFE3)
+
+
+
+
+# PHP
+
+## English
 
 #### Laracon
 
@@ -60,22 +73,46 @@ awesome-conference-playlist
 * [Laracon EU-2013](https://www.youtube.com/playlist?list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe)
 
 
-### Chinese(Taiwan) 
-
-#### JSDC-TW
-
-* [JSDC-2013](https://www.youtube.com/playlist?list=PL8dIIwCMF-SOaSb3_VYUlyULpPyk7iwlh)
-* [JSDC-2012](https://www.youtube.com/playlist?list=PL67C55F2DA256CFE3)
+## Chinese(Taiwan) 
 
 #### PHPConf-TW
 
 * [PHPConf-2013](http://www.youtube.com/playlist?list=PLI5n7xV4X5qUjSYt9IrakB2EWY7fUQJxr)
 
-#### RubyConf-TW
+
+
+
+# Python
+
+## English
 
 #### PyCon
 
 * [PyCon-APAC-2014](http://www.youtube.com/playlist?list=PLqtzN042QpfchDXDABJb9yM53OJ_1A0Yk)
+
+
+# Ruby
+
+## English
+
+
+
+# Other
+
+## English
+
+#### Realtime Conference Europe
+
+* [Realtime Conference Europe-2013](https://www.youtube.com/playlist?list=PLGQF24B-q5Oyq7vuP7YkVre8Gq4KJf5Wx)
+
+#### Fluent Conference
+
+* [Fluent Conference-2014](https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K)
+
+
+
+
+## Chinese(Taiwan) 
 
 #### WebConf-TW
 
