@@ -44,6 +44,10 @@ awesome-conference-playlist
 
 * [JSConf.Asia](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
 
+#### JSConfUY
+
+* [JSConfUY-2014](https://www.youtube.com/playlist?list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
+
 #### ng-conf
 
 * [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) 
