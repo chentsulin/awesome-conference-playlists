@@ -1,4 +1,4 @@
-awesome-conference-playlist
+awesome-conference-playlists
 ===========================
 
 # HTML
@@ -94,11 +94,22 @@ awesome-conference-playlist
 
 * [PyCon-APAC-2014](http://www.youtube.com/playlist?list=PLqtzN042QpfchDXDABJb9yM53OJ_1A0Yk)
 
+#### DjangoCon US
+
+* [DjangoCon US-2013](https://www.youtube.com/playlist?list=PLtqtTJ4wP09YOFqm_lBCoQtmS6S0omW3J)
+
+#### DjangoCon Europe
+
+* [DjangoCon Europe-2013](https://www.youtube.com/playlist?list=PLGGzV8mUnZt6L8hA1C5ExkH9rs4iqBux-)
+
 
 # Ruby
 
 ## English
 
+#### RubyConf Uruguay
+
+* [RubyConf Uruguay-2013](https://www.youtube.com/playlist?list=PLxx5qlTQCf0z2oFGlTDvLJTNMEKpgyopE)
 
 
 # Other
