@@ -15,7 +15,6 @@ awesome-conference-playlists
 * [HTML5DevConf - September 2011](https://www.youtube.com/playlist?list=PLAIXSzgkhDs7wzBY4RNwpWXIn_W9Q7C4H)
 
 
-
 # CSS
 
 ## English
@@ -25,6 +24,9 @@ awesome-conference-playlists
 * [CSSConf US-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC)
 * [CSSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
 
+#### SassConf
+
+* [SassConf-2013](http://vimeo.com/album/2725902)
 
 
 # JavaScript
@@ -52,6 +54,9 @@ awesome-conference-playlists
 
 * [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) 
 
+#### EmberConf
+
+* [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d)
 
 ## Chinese(Taiwan) 
 
@@ -94,6 +99,11 @@ awesome-conference-playlists
 
 * [PyCon-APAC-2014](http://www.youtube.com/playlist?list=PLqtzN042QpfchDXDABJb9yM53OJ_1A0Yk)
 
+
+#### DjangoCon
+
+* [DjangoCon-2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
+
 #### DjangoCon US
 
 * [DjangoCon US-2013](https://www.youtube.com/playlist?list=PLtqtTJ4wP09YOFqm_lBCoQtmS6S0omW3J)
@@ -106,6 +116,15 @@ awesome-conference-playlists
 # Ruby
 
 ## English
+
+#### Ruby Conf
+
+* [Ruby Conf 2013](https://www.youtube.com/playlist?list=PLE7tQUdRKcyb5I7Bk1POYW4udtHMUMkK7)
+
+#### RailsConf
+
+* [RailsConf-2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ5jfnbS_osIoWzK_FrwKz5)
+* [RailsConf-2013](https://www.youtube.com/playlist?list=PLE7tQUdRKcybxgqVTwuOA12wr5Gn2M2Pp)
 
 #### RubyConf Uruguay
 
