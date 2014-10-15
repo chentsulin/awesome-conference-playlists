@@ -55,6 +55,14 @@ awesome-conference-playlists
 
 * [JSConfUY-2014](https://www.youtube.com/playlist?list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
 
+#### JS.everywhere()
+
+* [JS.everywhere()-2012](https://www.youtube.com/playlist?list=PL2PF2oGPokReHxddTOGehBS_w8-prtOBE)
+
+#### JS.everywhere(Europe)
+
+* [JS.everywhere(Europe)-2012](https://www.youtube.com/playlist?list=PL2PF2oGPokReI-YwMBqo331LaQflFbaXX)
+
 #### ng-conf
 
 * [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) 
