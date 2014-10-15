@@ -24,6 +24,10 @@ awesome-conference-playlists
 * [CSSConf US-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC)
 * [CSSConf US-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
 
+#### CSSConf EU
+
+* [CSSConf EU-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshHAnqFlTxhd0MIXWjLBbM3R)
+
 #### SassConf
 
 * [SassConf-2013](http://vimeo.com/album/2725902)
@@ -40,6 +44,7 @@ awesome-conference-playlists
 
 #### JSConf EU 
 
+* [JSConf EU-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J)
 * [JSConf EU-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_)
 
 #### JSConf.Asia
