@@ -27,6 +27,7 @@ awesome-conference-playlists
 #### CSSConf EU
 
 * [CSSConf EU-2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshHAnqFlTxhd0MIXWjLBbM3R)
+* [CSSConf EU-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGi0vwS7HNUvsj8_vcNzQZk)
 
 #### SassConf
 
@@ -49,7 +50,7 @@ awesome-conference-playlists
 
 #### JSConf.Asia
 
-* [JSConf.Asia](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
+* [JSConf.Asia-2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
 
 #### JSConfUY
 
