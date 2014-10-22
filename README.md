@@ -148,6 +148,10 @@ awesome-conference-playlists
 
 ## English
 
+#### W3Conf
+
+* [W3Conf-2013](https://www.youtube.com/user/W3Conf/feed)
+
 #### Realtime Conference
 
 * [Realtime Conference-2013](http://vimeo.com/album/2582156)
