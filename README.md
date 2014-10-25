@@ -64,6 +64,10 @@ awesome-conference-playlists
 
 * [JS.everywhere(Europe)-2012](https://www.youtube.com/playlist?list=PL2PF2oGPokReI-YwMBqo331LaQflFbaXX)
 
+#### Nordic.js
+
+* [Nordic.js-2014](https://www.youtube.com/user/nordicjs/videos)
+
 #### ng-conf
 
 * [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) 
