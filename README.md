@@ -70,11 +70,16 @@ awesome-conference-playlists
 
 #### ng-conf
 
-* [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) 
+* [ng-conf-2014](https://www.youtube.com/user/ngconfvideos) 
+
+#### ng-europe
+
+* [ng-europe-2014](https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ/feed)
+
 
 #### EmberConf
 
-* [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d)
+* [EmberConf-2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d)
 
 ## Chinese(Taiwan) 
 
