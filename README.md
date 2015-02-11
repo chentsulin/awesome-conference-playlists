@@ -81,6 +81,11 @@ awesome-conference-playlists
 
 * [EmberConf-2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d)
 
+#### React.js Conf
+
+* [React.js Conf-2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
+
+
 ## Chinese(Taiwan) 
 
 #### JSDC-TW
